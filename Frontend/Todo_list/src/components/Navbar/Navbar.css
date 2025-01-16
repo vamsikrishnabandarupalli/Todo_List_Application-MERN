@@ -1,0 +1,12 @@
+a hr{
+    margin: 0;
+    padding:  0;
+    width: 50%;
+    display: none;
+}
+
+a:active hr{
+    display: block;
+    border: 1px solid black;
+    border-radius: 5px;
+}

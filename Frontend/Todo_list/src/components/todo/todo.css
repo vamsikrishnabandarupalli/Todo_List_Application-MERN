@@ -1,0 +1,18 @@
+#Additionbutton{
+    position: fixed;
+    right: 2rem;
+    bottom: 2rem;
+
+}
+
+.todo-body:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.container {
+    margin-top: 20px;
+  }
+  
+  
+
