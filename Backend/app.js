@@ -9,7 +9,7 @@ app.use(cors());
 
 // Connect to MongoDB
 try {
-  mongoose.connect('mongodb+srv://vamsikrishna2706:vamsi2706@cluster0.tlill.mongodb.net/').then(() => {
+  mongoose.connect('enter the url of mongodb for database connection ').then(() => {
       console.log('Connected to database')
   });
 } catch (error) {
